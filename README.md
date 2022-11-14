@@ -8,7 +8,9 @@ This is weekly progress report repository.
 - [ ] google chart (chart dashboard for finanacial audit page)
 - [ ] main page
 - [ ] my page
-- [ ] OCR
+- [X] OCR - tess-two
+- [ ] OCR - kakao api
+- [X] Flask server
 - [ ] convert table to excel
 - [ ] receipt upload page
 
