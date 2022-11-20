@@ -9,3 +9,9 @@
 + toolbar 수정
 # Ocr
 + 파이썬 전처리 위해 firebase에 이미지 저장 후 flask 서버로 불러와 파이썬에서 전처리 후 다시 android studio로 값 넘기기
++ 서버 주소 생성
+1) ngrok 사이트에서 zip 파일 받아 압축해제
+2)  cmd > cd 압축해제된 파일 폴더
+3) ngrok config add-authtoken 2HnBIcpGUbZ1pdR5RaTNTlBURmO_4npSCfYrDTJu1PQ83YC5w
+4) ngrok http {port 주소}
++ TestActivity.kt에서 flask 서버에서 전달받은 값을 FinancialMypageActivity.kt에 넘겨주어 table 형태로 저장한다.
