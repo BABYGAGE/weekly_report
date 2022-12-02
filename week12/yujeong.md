@@ -8,3 +8,7 @@
 + household page에 import image 버튼 추가하기
 + 사용자에게 받아온 값 firebase storage 에 저장 후 불러오기, recycler view, room database구현
 + library: material design
+
+
+## camerax 라이브러리 사용
++ camera.view.PreviewView 위젯 사용
