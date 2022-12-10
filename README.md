@@ -7,7 +7,7 @@ This is weekly progress report repository.
 - [X] intro page
 - [X] bar chart (chart dashboard for finanacial audit page)
 - [X] main page
-- [ ] my page
+- [X] my page
 - [X] OCR - tess-two
 - [X] Flask server
 - [X] convert table to excel
